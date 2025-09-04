@@ -33,5 +33,4 @@ export class ContaCorrente extends Conta {
         super.visualizar();
         console.log("Limite: " + this._limite.toFixed(2));
     }
-
 }

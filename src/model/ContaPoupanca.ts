@@ -21,5 +21,4 @@ export class ContaPoupanca extends Conta {
         super.visualizar();
         console.log("Dia do aniversário: " + this._aniversario);
     }
-
 }
