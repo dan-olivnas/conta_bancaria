@@ -67,7 +67,6 @@ export function main() {
 
   while (true) {
     console.log(
-      colors.bg.black,
       colors.fg.yellow,
       "*****************************************************"
     );
